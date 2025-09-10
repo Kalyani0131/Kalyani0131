@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [https://kalyani0131.github.io/portfolio/](https://kalyani0131.github.io/portfolio/)
-
 - 💬 Ask me about **C, python, Java, HTML, CSS, SQL, React JS**
 
 - 📫 How to reach me **kalyani.vadakala@gmail.com**
